@@ -1,0 +1,16 @@
+{
+  "name": "express-lab",
+  "version": "1.0.0",
+  "description": "express lab - an extension of Whitman Lab 19",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Rosalie Ryan Campau",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4"
+  }
+}
